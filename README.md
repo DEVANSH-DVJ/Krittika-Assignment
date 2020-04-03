@@ -1,2 +1,22 @@
 # Krittika-Assignment
-Krittika Assignment - Convener selection task 2020
+Krittika Assignment - Convener selection task 2020  
+  
+  
+### Task - Write an Article
+Article on Astrophotography  
+Target Audience who briefly want to know about Astrophotography and different ways and instruments.
+
+Reference Book - Tarangan (A Complete Guide To The Night Sky) by Pradeep Nayak (Page 23 to 27)
+
+Image Credits:  
+- Image 1 : Star Trail (https://www.flickr.com/photos/mikeporesky/5307929827)  
+- Image 2 : Piggyback Telescope (http://www.astropix.com/html/i_astrop/tracked/tracking.html)  
+- Image 3 : Moon (Me)  
+- Image 4 : CCD (https://en.wikipedia.org/wiki/Charge-coupled_device#/media/File:Delta-Doped_Charged_Coupled_Devices_(CCD)_for_Ultra-Violet_and_Visible_Detection.jpg)  
+  
+   
+### Task - Graph (Colour Magnitude Diagram)
+Important files:  
+- Graph.ipynb  
+- Temp2RGB.ipynb  
+- graph.py  
