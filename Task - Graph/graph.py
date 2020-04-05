@@ -122,7 +122,7 @@ blueco = np.poly1d(blueco)
 ### Absolute Magnitude VS Color
 ### Function temp2rgb defined at the top.
 
-#(Size of Marker linearly dependent on Magnitude)
+#(Size of Marker is constant)
 plt.figure(figsize=(15,10), facecolor='Black')
 plt.style.use(['dark_background'])
 clr = []
@@ -134,7 +134,7 @@ plt.xlim(-0.7,3.2)
 plt.ylim(-4.0,17.0)
 plt.xlabel('Color (B-V)', {'fontsize': 14})
 plt.ylabel('Absolute Magnitude', {'fontsize': 14})
-plt.title('Absolute Magnitude VS Color \n (Size of Marker linearly dependent on Magnitude)', {'fontsize': 18}, pad=15)
+plt.title('Absolute Magnitude VS Color)', {'fontsize': 18}, pad=15)
 plt.grid(True, linestyle='--', linewidth=0.5)
 plt.show()
 
